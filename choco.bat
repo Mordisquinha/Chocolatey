@@ -1,1 +1,1 @@
-choco -y install discord git googlechrome spotify vscode winrar wsl-ubuntu-2004 virtualbox notepadplusplus python dbeaver
+choco install discord git googlechrome vscode winrar wsl-ubuntu-2004 virtualbox notepadplusplus python dbeaver putty rainmeter lively vim winscp -Y -V
