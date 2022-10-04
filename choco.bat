@@ -4,6 +4,7 @@
 ::install git and clone all my repos in my github
 choco install git -fv
 cd "%userprofile% \Documents\Mordisquinha"
+::add repos you want clone
 git clone https://github.com/Mordisquinha/Chocolatey.git
 git clone https://github.com/Mordisquinha/Mordisquinha.git
 git clone https://github.com/Mordisquinha/Projeto_Bix.git
